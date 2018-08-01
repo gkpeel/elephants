@@ -1,0 +1,7 @@
+.background-img {
+    background: url('bush_elephant.jpg')
+    position: fixed;
+    width: 100%;
+    height: auto;
+    overflow: hidden
+}
